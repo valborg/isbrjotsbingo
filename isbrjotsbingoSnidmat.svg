@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="isbrjotsbingoSnidmat.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="svg_417"
+       gradientTransform="scale(0.88028005,1.1360021)"
+       x1="381.2955"
+       y1="307.80158"
+       x2="393.87527"
+       y2="307.80158"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop959"
+         stop-color="#e06d02"
+         offset="0.230469" />
+      <stop
+         id="stop961"
+         stop-color="#424242"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_418"
+       gradientTransform="scale(0.8705962,1.1486381)"
+       x1="100.24854"
+       y1="102.2081"
+       x2="111.81924"
+       y2="102.2081"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop964"
+         stop-color="#ff7b00"
+         stop-opacity="0.996094"
+         offset="0" />
+      <stop
+         id="stop966"
+         stop-color="#636363"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_419"
+       x1="127.596"
+       y1="432.12299"
+       x2="138.636"
+       y2="432.12299"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop969"
+         stop-color="#52a301"
+         offset="0" />
+      <stop
+         id="stop971"
+         stop-color="#6d6d6d"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_420"
+       gradientTransform="scale(0.85148608,1.1744173)"
+       x1="394.35445"
+       y1="83.573976"
+       x2="405.38885"
+       y2="83.573976"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop974"
+         stop-color="#3f7f00"
+         offset="0" />
+      <stop
+         id="stop976"
+         stop-color="#6b492a"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_421"
+       gradientTransform="scale(1.0829527,0.92340139)"
+       x1="301.76537"
+       y1="122.14521"
+       x2="309.30271"
+       y2="122.14521"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop979"
+         stop-color="#3f7f00"
+         offset="0" />
+      <stop
+         id="stop981"
+         stop-color="#6b4726"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_422"
+       gradientTransform="scale(1.0829537,0.92340051)"
+       x1="91.449895"
+       y1="390.51744"
+       x2="98.987242"
+       y2="390.51744"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop984"
+         stop-color="#007f00"
+         offset="0" />
+      <stop
+         id="stop986"
+         stop-color="#5e5e5e"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_423"
+       gradientTransform="scale(0.85148629,1.174417)"
+       x1="103.7184"
+       y1="314.8311"
+       x2="114.75279"
+       y2="314.8311"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop989"
+         stop-color="#3f7f00"
+         offset="0" />
+      <stop
+         id="stop991"
+         stop-color="#664a2f"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_424"
+       x2="297.59283"
+       y2="393.50501"
+       gradientTransform="scale(0.87982473,1.13659)"
+       x1="286.32406"
+       y1="392.8531"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop994"
+         stop-color="#d86800"
+         offset="0" />
+      <stop
+         id="stop996"
+         stop-color="#70543b"
+         stop-opacity="0.996094"
+         offset="0.949219" />
+    </linearGradient>
+    <linearGradient
+       id="svg_425"
+       gradientTransform="scale(0.87982549,1.136589)"
+       x1="195.03247"
+       y1="17.853166"
+       x2="206.95316"
+       y2="17.853166"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop999"
+         stop-color="#d66904"
+         stop-opacity="0.996094"
+         offset="0" />
+      <stop
+         id="stop1001"
+         stop-color="#6b5037"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="svg_426"
+       gradientTransform="scale(0.99999869,1.0000013)"
+       x1="295.35799"
+       y1="37.190808"
+       x2="306.39798"
+       y2="37.190808"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1004"
+         stop-color="#3f7f00"
+         offset="0" />
+      <stop
+         id="stop1006"
+         stop-color="#7f5b39"
+         stop-opacity="0.996094"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="322.68733"
+     inkscape:cy="638.36255"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     showguides="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1551"
+     inkscape:window-height="1276"
+     inkscape:window-x="1961"
+     inkscape:window-y="317"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6999" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="rammi" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Texti">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7083"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion7085"><rect
+           id="rect7087"
+           width="240"
+           height="60"
+           x="-8.5714283"
+           y="109.66254" /></flowRegion><flowPara
+         id="flowPara7089" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7003"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.0714286,-4.2201105)"><flowRegion
+         id="flowRegion7005"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"><rect
+           id="rect7007"
+           width="248.57144"
+           height="180"
+           x="114.28571"
+           y="62.519684"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRegion><flowPara
+         id="flowPara4716">Ísbrjótsbingó  </flowPara><flowPara
+         style="font-size:18.66666603px"
+         id="flowPara4723">Spurðu samstarfsfólkið hvort einhver þessara staðhæfinga eigi við, skrifaðu þá nafn viðkomandi</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7059"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.5357142,8.6934514)"><flowRegion
+         id="flowRegion7061"
+         style="font-size:16px"><rect
+           id="rect7063"
+           width="277.14285"
+           height="417.14285"
+           x="91.428574"
+           y="133.94826"
+           style="font-size:16px" /></flowRegion><flowPara
+         id="flowPara7065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"> </flowPara><flowPara
+         id="flowPara7117"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7069"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_A_1</flowPara><flowPara
+         id="flowPara7113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_A_2</flowPara><flowPara
+         id="flowPara7093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7097"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_A_3</flowPara><flowPara
+         id="flowPara7099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7101"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_A_4</flowPara><flowPara
+         id="flowPara7105"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_A_5</flowPara><flowPara
+         id="flowPara7111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7059-0"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,97.517856,9.0360317)"><flowRegion
+         id="flowRegion7061-4"
+         style="font-size:16px"><rect
+           id="rect7063-1"
+           width="274.28571"
+           height="392.85721"
+           x="91.428574"
+           y="133.94826"
+           style="font-size:16px" /></flowRegion><flowPara
+         id="flowPara7065-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"> </flowPara><flowPara
+         id="flowPara7117-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7119-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7069-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_B_1</flowPara><flowPara
+         id="flowPara7113-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7067-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7091-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_B_2</flowPara><flowPara
+         id="flowPara7093-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7095-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7097-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_B_3</flowPara><flowPara
+         id="flowPara7099-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7101-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7103-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_B_4</flowPara><flowPara
+         id="flowPara7105-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7107-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7109-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_B_5</flowPara><flowPara
+         id="flowPara7111-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7003-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,91.092263,-3.5980867)"><flowRegion
+         id="flowRegion7005-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"><rect
+           id="rect7007-7"
+           width="248.57144"
+           height="180"
+           x="114.28571"
+           y="62.519684"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRegion><flowPara
+         id="flowPara4716-5">Ísbrjótsbingó  </flowPara><flowPara
+         style="font-size:18.66666603px"
+         id="flowPara4723-3">Spurðu samstarfsfólkið hvort einhver þessara staðhæfinga eigi við, skrifaðu þá nafn viðkomandi</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7059-8"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-4.567359,157.20635)"><flowRegion
+         id="flowRegion7061-5"
+         style="font-size:16px"><rect
+           id="rect7063-7"
+           width="275.83389"
+           height="393.28745"
+           x="91.428574"
+           y="133.94826"
+           style="font-size:16px" /></flowRegion><flowPara
+         id="flowPara7065-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7117-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7119-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7069-60"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_C_1</flowPara><flowPara
+         id="flowPara7113-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7067-12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7091-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_C_2</flowPara><flowPara
+         id="flowPara7093-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7095-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7097-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_C_3</flowPara><flowPara
+         id="flowPara7099-44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7101-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7103-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_C_4</flowPara><flowPara
+         id="flowPara7105-51"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara7107-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">________________________________</flowPara><flowPara
+         id="flowPara7109-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">#CRITERIA_C_5</flowPara><flowPara
+         id="flowPara7111-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7003-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-10.042404,144.00893)"><flowRegion
+         id="flowRegion7005-62"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"><rect
+           id="rect7007-9"
+           width="248.57144"
+           height="180"
+           x="114.28571"
+           y="62.519684"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRegion><flowPara
+         id="flowPara4716-1">Ísbrjótsbingó  </flowPara><flowPara
+         style="font-size:18.66666603px"
+         id="flowPara4723-2">Spurðu samstarfsfólkið hvort einhver þessara staðhæfinga eigi við, skrifaðu þá nafn viðkomandi</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,98.998121,156.58662)"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot7059-0-0"
+       xml:space="preserve"><flowRegion
+         style="font-size:16px"
+         id="flowRegion7061-4-6"><rect
+           style="font-size:16px"
+           y="133.94826"
+           x="91.428574"
+           height="369.00177"
+           width="292.97675"
+           id="rect7063-1-9" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7065-7-6" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7117-9-8" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7119-3-0">________________________________</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7069-6-8">#CRITERIA_D_1</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7113-2-6" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7067-1-7">________________________________</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7091-2-5">#CRITERIA_D_2</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7093-5-4" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7095-3-4">________________________________</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7097-9-6">#CRITERIA_D_3</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7099-1-0" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7101-8-5">________________________________</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7103-8-5">#CRITERIA_D_4</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7105-7-3" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7107-0-9">________________________________</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7109-5-1">#CRITERIA_D_5</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowPara7111-2-5" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,92.478429,144.10191)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot7003-7"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+         id="flowRegion7005-0"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
+           y="62.519684"
+           x="114.28571"
+           height="180"
+           width="248.57144"
+           id="rect7007-93" /></flowRegion><flowPara
+         id="flowPara4716-6">Ísbrjótsbingó  </flowPara><flowPara
+         id="flowPara4723-0"
+         style="font-size:18.66666603px">Spurðu samstarfsfólkið hvort einhver þessara staðhæfinga eigi við, skrifaðu þá nafn viðkomandi</flowPara></flowRoot>  </g>
+</svg>
