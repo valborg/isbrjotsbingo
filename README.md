@@ -6,3 +6,6 @@ Inni í scriptus.py eru allar staðhæfingarnar sem ég setti inn, um að gera a
 Innan í isbrjotsbingoSnidmat.svg má finna hvernig eitt a4 blað verður að fjórum bingóspjöldum. Tilvalið að krydda upp á það með logo / skrauti, þetta er strípaða útgáfan. 
 
 Ekki í þessari útgáfu: Að geta sett inn eigin texta eða texta af handahófi sem breytu í titil eða undirtitil 
+
+TODO: gera github page til að geta bara ýtt á takka og fengið út prentanleg spjöld úr strípaðri útgáfu
+Version 2.0 að geta þá sett inn sniðmát og fengið út bingóspjöld.
